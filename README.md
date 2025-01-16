@@ -1,15 +1,12 @@
-# 🚀 Welcome to your new awesome project!
+# 🚀 Welcome to your new React Audio project!
+
+## This Project has two parts. First part is for Sound Recorder. It records sound from mic and create transcript according to selected language.
 
 This project has been created using **create-webpack-app**, you can now run
 
-```bash
-npm run build
-```
+**Running in local system**
+> npm run serve
 
-or
+**Running as Docker Container**
 
-```bash
-yarn build
-```
-
-to bundle your application
+> docker-compose up --build
